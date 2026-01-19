@@ -37,7 +37,7 @@ See: https://github.com/MatanShamir1/gr_envs
 #### Linux / macOS
 ```sh
 python3.12 -m venv gr_env
-source gr_env/Scripts/activate
+source gr_env/bin/activate
 ````
 
 #### Windows (Git Bash)
